@@ -1,3 +1,5 @@
+#LEZIONE 28/09/20
+
 Quando si fa il commit si deve usare il -m "messaggio da inserire" perchè altrimenti si va dentro vim (?)
 
 Una volta fatto il commit git mi da un hash prima del nome del file.
