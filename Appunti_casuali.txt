@@ -1,0 +1,12 @@
+Quando si fa il commit si deve usare il -m "messaggio da inserire" perchè altrimenti si va dentro vim (?)
+
+Una volta fatto il commit git mi da un hash prima del nome del file.
+
+Poi va pushato il file. IL PUSH AGISCE SU TUTTO CIò CHE é STATO COMMITTATO.
+
+Il pull invece serve per vedere i cambiamentio ed è opportuno farlo prima di iniziare a lavorare.
+
+git status mi dice lo status del repositorio, se c'è qualcosa di verde è nuovo. Se rosso è untrucked e devo fare git add per tracciarlo (da capire cosa vuol dire).
+Una volta verde il file è pronto per il commit.
+
+Se modifico un file già committato posso utilizzare add per aggiungere le modifiche o restore per tornare alla versione precedentemente committata.
